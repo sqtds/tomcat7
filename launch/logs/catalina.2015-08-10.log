@@ -1,0 +1,260 @@
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/@VERSION@
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          @VERSION_BUILT@
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         @VERSION_NUMBER@
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             D:\Program Files\Java\jdk1.7.0_17\jre
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_17-b02
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=launch
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=launch
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=launch/endorsed
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=launch/temp
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=launch/conf/logging.properties
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Didea.launcher.port=7534
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Didea.launcher.bin.path=D:\Program Files (x86)\JetBrains\IntelliJ IDEA 14.0\bin
+八月 10, 2015 8:31:11 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+八月 10, 2015 8:31:11 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\Java\jdk1.7.0_17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Perl64\site\bin;D:\Perl64\bin;H:\app\oracle\product\12.1.0\dbhome_1\bin;F:\app\sqtds\product\12.1.0\dbhome_2\bin;F:\app\sqtds\product\12.1.0\dbhome_1\bin;E:\app\sqtds\product\12.1.0\dbhome_1\bin;D:\tools\apache-ant-1.9.4/bin;D:\Program Files\Java\jdk1.6.0_45/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;D:\Program Files\SlikSvn\bin;D:\Program Files\TortoiseSVN\bin;H:\RailsInstaller\Git\cmd;H:\RailsInstaller\Ruby2.1.0\bin;C:\Users\suntiancheng\AppData\Roaming\npm;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;.
+八月 10, 2015 8:31:12 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 8:31:12 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 8:31:12 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 984 ms
+八月 10, 2015 8:31:12 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+八月 10, 2015 8:31:12 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+八月 10, 2015 8:31:12 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs
+八月 10, 2015 8:31:19 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs has finished in 7,677 ms
+八月 10, 2015 8:31:19 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples has finished in 2,578 ms
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager has finished in 94 ms
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager has finished in 109 ms
+八月 10, 2015 8:31:22 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT
+八月 10, 2015 8:31:24 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:31:24 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT has finished in 1,676 ms
+八月 10, 2015 8:31:24 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 8:31:24 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 8:31:24 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 12209 ms
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/@VERSION@
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          @VERSION_BUILT@
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         @VERSION_NUMBER@
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             D:\Program Files\Java\jdk1.7.0_17\jre
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_17-b02
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58516,suspend=y,server=n
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=launch
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=launch
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=launch/endorsed
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=launch/temp
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=launch/conf/logging.properties
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+八月 10, 2015 8:56:38 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\Java\jdk1.7.0_17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Perl64\site\bin;D:\Perl64\bin;H:\app\oracle\product\12.1.0\dbhome_1\bin;F:\app\sqtds\product\12.1.0\dbhome_2\bin;F:\app\sqtds\product\12.1.0\dbhome_1\bin;E:\app\sqtds\product\12.1.0\dbhome_1\bin;D:\tools\apache-ant-1.9.4/bin;D:\Program Files\Java\jdk1.6.0_45/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;D:\Program Files\SlikSvn\bin;D:\Program Files\TortoiseSVN\bin;H:\RailsInstaller\Git\cmd;H:\RailsInstaller\Ruby2.1.0\bin;C:\Users\suntiancheng\AppData\Roaming\npm;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;.
+八月 10, 2015 8:56:38 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 8:56:38 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 812 ms
+八月 10, 2015 8:56:38 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+八月 10, 2015 8:56:38 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+八月 10, 2015 8:56:38 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs
+八月 10, 2015 8:56:41 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:56:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs has finished in 3,462 ms
+八月 10, 2015 8:56:42 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples has finished in 2,364 ms
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager has finished in 95 ms
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager has finished in 89 ms
+八月 10, 2015 8:56:44 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT
+八月 10, 2015 8:56:46 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 8:56:46 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT has finished in 1,555 ms
+八月 10, 2015 8:56:46 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 8:56:46 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 8:56:46 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 7653 ms
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/@VERSION@
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          @VERSION_BUILT@
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         @VERSION_NUMBER@
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.2
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             D:\Program Files\Java\jdk1.7.0_17\jre
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_17-b02
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         H:\code\github\tomcat7\tomcat\launch
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58555,suspend=y,server=n
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=launch
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=launch
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=launch/endorsed
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=launch/temp
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=launch/conf/logging.properties
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+八月 10, 2015 9:23:42 下午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\Java\jdk1.7.0_17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Perl64\site\bin;D:\Perl64\bin;H:\app\oracle\product\12.1.0\dbhome_1\bin;F:\app\sqtds\product\12.1.0\dbhome_2\bin;F:\app\sqtds\product\12.1.0\dbhome_1\bin;E:\app\sqtds\product\12.1.0\dbhome_1\bin;D:\tools\apache-ant-1.9.4/bin;D:\Program Files\Java\jdk1.6.0_45/bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\nodejs\;D:\Program Files\SlikSvn\bin;D:\Program Files\TortoiseSVN\bin;H:\RailsInstaller\Git\cmd;H:\RailsInstaller\Ruby2.1.0\bin;C:\Users\suntiancheng\AppData\Roaming\npm;C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\;.
+八月 10, 2015 9:23:42 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 9:23:42 下午 org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 9:23:42 下午 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1837 ms
+八月 10, 2015 9:24:34 下午 org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+八月 10, 2015 9:24:34 下午 org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/@VERSION@
+八月 10, 2015 9:24:34 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs
+八月 10, 2015 9:24:41 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 9:24:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\docs has finished in 6,649 ms
+八月 10, 2015 9:24:41 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\examples has finished in 2,244 ms
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\host-manager has finished in 79 ms
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\manager has finished in 79 ms
+八月 10, 2015 9:24:43 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT
+八月 10, 2015 9:24:45 下午 org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+八月 10, 2015 9:24:45 下午 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory H:\code\github\tomcat7\tomcat\launch\webapps\ROOT has finished in 1,514 ms
+八月 10, 2015 9:24:45 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+八月 10, 2015 9:24:45 下午 org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+八月 10, 2015 9:24:45 下午 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 10642 ms
